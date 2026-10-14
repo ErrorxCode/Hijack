@@ -1,6 +1,6 @@
 
 <p align="center"><a target="_blank" rel="noreferrer noopener"><img width="80%" alt="Hijack chrome extension" src="/banner.png"></a></p>
-<p align="center">Loophole <strong>gives you freedom</strong> to do whatever you want in restricted websites</strong></p>
+<p align="center">Hijack <strong>gives you freedom</strong> to do whatever you want in restricted websites</strong></p>
 <br/>
 <p align="center"><a rel="noreferrer noopener" "><img alt="Chrome Web Store" src="https://img.shields.io/badge/Chrome-141e24.svg?&style=for-the-badge&logo=google-chrome&logoColor=white"></a>
 <a rel="noreferrer noopener"><img alt="Opera Add-ons" src="https://img.shields.io/badge/Opera-141e24.svg?&style=for-the-badge&logo=opera&logoColor=white"></a>
